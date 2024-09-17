@@ -16,8 +16,5 @@ Welcome to my GitHub! My name is Tejas. This is my new account. I'm passionate f
 - 🌐 Web Development: Svelte, SvelteKit
 - ⚙️ Tools: Git, Docker, Kafka, Vim, VS code
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=7ejasVijay&show_icons=true&theme=normal)
 
 Thanks for stopping by! 😊
