@@ -7,7 +7,7 @@ Welcome to my GitHub! My name is Tejas. This is my new account. I'm passionate f
 - 🔭 I’m currently working as a backend engineer
 - 👯 I’m always looking to collaborate on something interesting
 - 💬 Ask me about the cosmos or anything mythological, it will be a fun conversation
-- ⚡ Fun fact: I like anime
+- ⚡ Fun fact: I like to watch anime
 
 ## 💻 Technologies & Tools
 
