@@ -11,9 +11,10 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 
 ## 💻 Technologies & Tools
 
-- 🛠 Languages: Python, Rust, C, Javascript 
-- 🌐 Web Development: Svelte, SvelteKit
-- ⚙️ Tools: Git, Docker, Kafka, NVim, VS code
+- Languages: Python, Rust, C, Javascript 
+- Web Development Frameworks: Svelte, SvelteKit
+- Tools: Git, Docker, Kafka
+- Editor: NVIM
 
 
 Thanks for stopping by! 😊
