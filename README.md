@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 
-Welcome to my GitHub! My name is Tejas. This is my new account. I'm passionate for all things code. Whether it's building applications or researching a new technology, I’m always eager to learn and create.
+Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whether it's building applications or researching a new technology, I’m always eager to learn and create.
 
 ## 🚀 About Me
 
