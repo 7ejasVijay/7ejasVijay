@@ -14,7 +14,7 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Languages: Python, Rust, C, Javascript 
 - Web Development Frameworks: Svelte, SvelteKit
 - Tools: Git, Docker, Kafka
-- Editor: NVIM
+- Editors: NVIM, VS Code
 
 
 Thanks for stopping by! 😊
