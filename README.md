@@ -15,7 +15,5 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Web Development Frameworks: Svelte, SvelteKit
 - Tools: Git, Docker, Kafka
 - Editors: NVIM, VS Code
-- CLIs interested in learning: [ripgrep](https://github.com/BurntSushi/ripgrep)
-
 
 Thanks for stopping by! 😊
