@@ -16,4 +16,7 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Tools: Git, Docker, Kafka
 - Editors: NVIM, VS Code
 
+## Today
+- Resolved a lot of errors related to node version upgrade
+
 Thanks for stopping by! 😊
