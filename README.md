@@ -4,7 +4,7 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working as a backend engineer in rust-lang
+- 🔭 I’m currently working as a backend / blockchain engineer in rust-lang
 - 👯 I’m always looking to collaborate on something interesting
 - 💬 Ask me about the cosmos or anything mythological, it will be a fun conversation
 - ⚡ Fun fact: I like to watch anime, Favs: One Piece, Solo Leveling, Apothecary Diaries
