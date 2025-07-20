@@ -18,5 +18,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 
 ## Today
 - The node version upgrade has a lot of trait and type errors
+- Might need to rewrite the runtime code
 
 Thanks for stopping by! 😊
