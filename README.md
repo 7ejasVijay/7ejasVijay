@@ -17,7 +17,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- The node version upgrade has a lot of trait and type errors
-- Might need to rewrite the runtime code
+- So many errors popped up today, resolving them 1 by 1, phew
 
 Thanks for stopping by! 😊
