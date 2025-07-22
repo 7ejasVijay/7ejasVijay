@@ -17,6 +17,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- So many errors popped up today, resolving them 1 by 1, phew
+- Errors were popping from the contruct runtime macro, that is fine now, but the orml dependencies are causing an issue
 
 Thanks for stopping by! 😊
