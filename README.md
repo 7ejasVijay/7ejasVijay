@@ -17,6 +17,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Man o man... am facing shoot load of errors because of bypassing orml crates, but was necessary to do so
+- Learning about p2p protocol. Its quite interesting..
 
 Thanks for stopping by! 😊
