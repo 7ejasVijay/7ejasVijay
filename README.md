@@ -17,6 +17,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Learning about p2p protocol. Its quite interesting..
+- A lot of errors were resolved. It looks promising
 
 Thanks for stopping by! 😊
