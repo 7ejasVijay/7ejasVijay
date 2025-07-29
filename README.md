@@ -18,5 +18,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 
 ## Today
 - Stuck on 1 specific error, hope it gets resolved
+- Am thinking of spending todays entire day on resolving the thing
 
 Thanks for stopping by! 😊
