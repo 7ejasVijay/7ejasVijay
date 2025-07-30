@@ -17,7 +17,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Stuck on 1 specific error, hope it gets resolved
-- Am thinking of spending todays entire day on resolving the thing
+- Man spent the entire day on resolving 1 error
 
 Thanks for stopping by! 😊
