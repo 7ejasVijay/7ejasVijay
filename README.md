@@ -17,6 +17,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Wow a lot of errors still remain but am consistently making progress and also rearranging code for better clarity
+- Solved a lot of configuration issues
 
 Thanks for stopping by! 😊
