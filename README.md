@@ -18,5 +18,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 
 ## Today
 - Solved a lot of configuration issues
+- Tried Ratatui, created 2 simple apps, im hooked!!
 
 Thanks for stopping by! 😊
