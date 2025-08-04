@@ -17,7 +17,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Solved a lot of configuration issues
-- Tried Ratatui, created 2 simple apps, im hooked!!
+- Resolved the chain spec configurations, dont know still how much issues are left
 
 Thanks for stopping by! 😊
