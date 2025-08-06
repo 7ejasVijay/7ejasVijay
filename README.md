@@ -18,5 +18,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 
 ## Today
 - Getting some errors from the runtime
+- Working on adding pallets as well
 
 Thanks for stopping by! 😊
