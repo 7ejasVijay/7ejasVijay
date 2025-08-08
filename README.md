@@ -17,6 +17,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Working on a document to illustrate the technical difficulties that i have faced during the upgrade
+- Learnt more about ratatui, really liking it
 
 Thanks for stopping by! 😊
