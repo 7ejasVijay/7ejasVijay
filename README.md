@@ -13,6 +13,7 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 
 - Languages: Rust, Python, Javascript 
 - Web Development Frameworks: Svelte, SvelteKit
+- Terminal: Ratatui (in progress...)
 - Tools: Git, Docker, Kafka
 - Editors: NVIM, VS Code
 
