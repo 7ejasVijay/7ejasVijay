@@ -19,5 +19,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 
 ## Today
 - Started working on resource monitor in ratatui
+- Resolved runtime rpc issues
 
 Thanks for stopping by! 😊
