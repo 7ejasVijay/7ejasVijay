@@ -19,5 +19,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 
 ## Today
 - Started working on resmon
+- resmon is a resource monitor that is created with ratatui
 
 Thanks for stopping by! 😊
