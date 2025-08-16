@@ -18,7 +18,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Started working on resource monitor in ratatui
-- Resolved runtime rpc issues
+- Started working on resmon
 
 Thanks for stopping by! 😊
