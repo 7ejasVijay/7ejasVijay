@@ -18,7 +18,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Started working on resmon
-- resmon is a resource monitor that is created with ratatui
+- Working on resolving the genesis presets configuration
 
 Thanks for stopping by! 😊
