@@ -19,5 +19,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 
 ## Today
 - Today found some success in the project
+- The node compiled finally, but still have some issues
 
 Thanks for stopping by! 😊
