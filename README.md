@@ -19,5 +19,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 
 ## Today
 - Solved the service application error
+- Facing issue with beefy finality
 
 Thanks for stopping by! 😊
