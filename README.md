@@ -18,6 +18,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Did some rust
+- Integrated 2 custom pallets
 
 Thanks for stopping by! 😊
