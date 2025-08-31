@@ -19,5 +19,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 
 ## Today
 - Integrated the ismp pallet
+- Integrated the ismp parachain pallet
 
 Thanks for stopping by! 😊
