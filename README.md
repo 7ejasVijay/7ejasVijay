@@ -18,6 +18,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Integrated 2 custom pallets - rewards and pdex-migration
+- Integrated the ismp pallet
 
 Thanks for stopping by! 😊
