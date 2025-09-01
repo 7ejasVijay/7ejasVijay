@@ -18,7 +18,8 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Integrated the ismp pallet
-- Integrated the ismp parachain pallet
+- Did a lot of coding today
+- Resolved a lot of errors
+- hyperbridge is almost integrated
 
 Thanks for stopping by! 😊
