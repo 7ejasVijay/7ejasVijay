@@ -18,8 +18,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Did a lot of coding today
-- Resolved a lot of errors
-- hyperbridge is almost integrated
+- The beefy issue is still giving me a headache
 
 Thanks for stopping by! 😊
