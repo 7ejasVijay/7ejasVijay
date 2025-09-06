@@ -18,7 +18,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- The beefy issue is still giving me a headache
-- I need to look into the chain specification more
+- Thinking of building something in rust
 
 Thanks for stopping by! 😊
