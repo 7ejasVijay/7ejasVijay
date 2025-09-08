@@ -18,6 +18,7 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Going through ratatui docs
+- Still in process of debugging the beefy gadge issue
+- Am in contact with the polkadot team as well for resolving the same
 
 Thanks for stopping by! 😊
