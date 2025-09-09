@@ -18,7 +18,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Still in process of debugging the beefy gadge issue
-- Am in contact with the polkadot team as well for resolving the same
+- Working on chain spec docs
 
 Thanks for stopping by! 😊
