@@ -18,6 +18,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Reading about blockchain
+- Finally the chain is producing blocks
 
 Thanks for stopping by! 😊
