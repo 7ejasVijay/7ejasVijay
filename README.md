@@ -18,6 +18,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Editors: NVIM, VS Code
 
 ## Today
-- Learning about validator nodes
+- Going into blockchain basics
 
 Thanks for stopping by! 😊
