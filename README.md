@@ -17,7 +17,6 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Tools: Git, Docker, Kafka
 - Editors: NVIM, VS Code
 
-## Today
-- Looking into injecting and rotating keys in session
+PS: I use my company Github ID for making commits and pushing code
 
 Thanks for stopping by! 😊
