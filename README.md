@@ -15,7 +15,7 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Web Development Frameworks: Svelte, SvelteKit
 - Terminal: Ratatui (in progress...)
 - Tools: Git, Docker, Kafka
-- Databases: MySQL, MongoDB
+- Databases: MySQL, MongoDB, DynamoDB
 - Editors: NVIM, VS Code (vim motions)
 
 PS: I use my company Github ID for making commits and pushing code
