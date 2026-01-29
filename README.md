@@ -13,7 +13,7 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 
 - Languages: Rust, Python, Javascript, BASH
 - Web Development Frameworks: Svelte, SvelteKit
-- Terminal: CLI tools
+- Terminal: CLI tools, ripgrep
 - Tools: Git, Docker, Kafka
 - Databases: MySQL, MongoDB, DynamoDB
 - Editors: NVIM, VS Code (vim motions)
