@@ -2,7 +2,8 @@
 
 Welcome to my GitHub! My name is Tejas. <br />
 I have taken on multiple roles throughout my 5+ year career to build a deep, practical understanding of software
-engineering.
+engineering. I value learning through hands-on experience and exploring less conventional approaches when they
+lead to better outcomes.
 
 ## 🚀 About Me
 
