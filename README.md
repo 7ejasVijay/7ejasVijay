@@ -17,6 +17,7 @@ Welcome to my GitHub! My name is Tejas. I'm passionate for all things code. Whet
 - Tools: Git, Docker, Kafka
 - Databases: MySQL, MongoDB, DynamoDB
 - Editors: NVIM, VS Code (vim motions)
+- Cloud: AWS
 
 PS: I use my company Github ID for making commits and pushing code
 
