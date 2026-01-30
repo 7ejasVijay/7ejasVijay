@@ -22,6 +22,4 @@ lead to better outcomes.
 - Editors: NVIM, VS Code (vim motions)
 - Cloud: AWS
 
-PS: I use my company Github ID for making commits and pushing code
-
 Thanks for stopping by! 😊
