@@ -16,7 +16,7 @@ lead to better outcomes.
 
 - Languages: Rust, Python, Javascript, BASH
 - Web Development Frameworks: Svelte, SvelteKit
-- Terminal: CLI tools, ripgrep
+- Terminal: CLI tools
 - Tools: Git, Docker, Kafka, Localstack
 - Databases: MySQL, MongoDB, DynamoDB
 - Editors: NVIM, VS Code (vim motions)
