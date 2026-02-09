@@ -14,7 +14,7 @@ lead to better outcomes.
 
 ## 💻 Technologies & Tools
 
-- Languages: Rust, Python, Javascript, BASH
+- Languages: Rustlang, Python, Javascript, BASH
 - Web Development Frameworks: Svelte, SvelteKit
 - Terminal: CLI tools, ratatui
 - Tools: Git, Docker, Kafka, Localstack
