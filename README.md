@@ -19,7 +19,7 @@ lead to better outcomes.
 - Terminal: CLI tools, ratatui
 - Tools: Git, Docker, Kafka, Localstack
 - Databases: MySQL, MongoDB, DynamoDB
-- Editors: NVIM, VS Code (vim motions)
+- Editors: NVIM, VS Code
 - Cloud: AWS
 
 Thanks for stopping by! 😊
