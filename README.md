@@ -18,7 +18,7 @@ lead to better outcomes.
 - Frameworks: Svelte, SvelteKit, Substrate, FastApi, Flask
 - Terminal: CLI tools, ratatui
 - Tools: Git, Docker, Kafka, Localstack
-- Databases: MySQL, MongoDB, DynamoDB
+- Databases: MySQL, MongoDB, DynamoDB, SQLite
 - Editors: NVIM, VS Code, Sublime Text
 - Cloud: AWS
 
