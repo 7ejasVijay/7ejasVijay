@@ -5,14 +5,14 @@ I have taken on multiple roles throughout my 5+ year career to build a deep, pra
 engineering. I value learning through hands-on experience and exploring less conventional approaches when they
 lead to better outcomes.
 
-## 🚀 About Me
+## About Me
 
 - 🔭 I’m currently working as a backend / blockchain engineer in rust-lang
 - 👯 I’m always looking to collaborate on something interesting
 - 💬 Ask me about the cosmos or anything mythological, it will be a fun conversation
 - ⚡ Fun fact: I like to watch anime, Favs: One Piece, Solo Leveling
 
-## 💻 Technologies & Tools
+## Technologies & Tools
 
 - Languages: Rustlang, Python, Javascript, BASH
 - Frameworks: Svelte, SvelteKit, Substrate, FastApi, Flask
