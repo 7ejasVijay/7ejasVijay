@@ -16,7 +16,7 @@ lead to better outcomes.
 ## Technologies & Tools
 
 - Languages: Rustlang, Python, Javascript, BASH
-- Frameworks: Svelte, SvelteKit, Substrate, FastApi, Flask
+- Frameworks: Actix, Axum, Substrate, FastApi, Flask, SvelteKit
 - Terminal: CLI tools, ratatui
 - Tools: Git, Docker, Kafka, Localstack
 - Databases: MySQL, MongoDB, DynamoDB, SQLite
