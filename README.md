@@ -22,6 +22,6 @@ lead to better outcomes.
 - Databases: MySQL, MongoDB, DynamoDB, SQLite
 - Editors: NVIM, VS Code, Sublime Text
 - Cloud: AWS
-- Learning: Tokio
+- Learning: Tokio, Iroh
 
 Thanks for stopping by! 😊
