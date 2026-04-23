@@ -17,7 +17,7 @@ lead to better outcomes.
 
 - Languages: Rustlang, Python, Javascript, BASH
 - Frameworks: Actix, Axum, Substrate, FastApi, Flask, SvelteKit
-- Terminal: CLI tools, ratatui
+- Terminal: CLI tools
 - Tools: Git, Docker, Kafka, Localstack
 - Databases: MySQL, MongoDB, DynamoDB, SQLite
 - Editors: NVIM, VS Code, Sublime Text
