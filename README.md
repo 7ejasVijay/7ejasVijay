@@ -19,7 +19,7 @@ lead to better outcomes.
 - Frameworks: Actix, Axum, Substrate, FastApi, Flask, SvelteKit
 - Terminal: CLI tools
 - Tools: Git, Docker, Kafka, Localstack
-- Databases: MySQL, MongoDB, DynamoDB, SQLite
+- Databases: MySQL, MongoDB, DynamoDB, SQLite, PostgreSQL
 - Editors: NVIM, VS Code, Sublime Text
 - Cloud: AWS
 - Learning: Tokio, Iroh
