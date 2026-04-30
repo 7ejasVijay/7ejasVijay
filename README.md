@@ -21,7 +21,6 @@ lead to better outcomes.
 - Tools: Git, Docker, Kafka, Localstack
 - Databases: MySQL, MongoDB, DynamoDB, SQLite, PostgreSQL
 - Editors: NVIM, VS Code, Sublime Text
-- Cloud: AWS
 - Learning: Tokio, Iroh
 
 Thanks for stopping by! 😊
