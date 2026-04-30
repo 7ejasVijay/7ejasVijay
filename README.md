@@ -22,5 +22,6 @@ lead to better outcomes.
 - Databases: MySQL, MongoDB, DynamoDB, SQLite, PostgreSQL
 - Editors: NVIM, VS Code, Sublime Text
 - Learning: Tokio, Iroh
+- Monitoring - Prometheus, Grafana
 
 Thanks for stopping by! 😊
