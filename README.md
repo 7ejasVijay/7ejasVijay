@@ -11,7 +11,7 @@ lead to better outcomes.
 - I’m always looking to collaborate on something interesting
 - Ask me about the cosmos or anything mythological, it will be a fun conversation
 - Fun fact: I like to watch anime, Favs: One Piece, Solo Leveling
-- Favorite games: Warhammer 40K, Road Rash
+- Favorite games: Warhammer 40K
 
 ## Technologies & Tools
 
